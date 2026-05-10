@@ -40,12 +40,6 @@ Construo projetos reais focados em dados, automação e arquitetura de sistemas.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlostsucamoto&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
-![GitHub Streak](https://streak-stats.demolab.com?user=carlostsucamoto&theme=dark&hide_border=true)
 
 ---
 
